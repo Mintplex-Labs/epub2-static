@@ -1,3 +1,7 @@
+> This module is forked from the original `epub2` module and edited to apply
+> a stringification patch that causes issues with some EPUB files
+> See: https://github.com/Mintplex-Labs/anything-llm/pull/4630/files
+
 # epub2
 
 **epub2** is a node.js module to parse EPUB electronic book files.
